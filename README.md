@@ -1,3 +1,12 @@
-# Machine-Learning-Foundations
+# Facebook-Automation
 
-Coursera Course from University of Washington involving the use of Sframe.
+Using Selenium package of Python to use Facebook in an automated process. Here, we will be completing 7 simple tasks that the user perform on a daily basis: 
+
+* Logging into the Facebook account
+* Enabling/Disabling Dark Mode
+* Sending messages to a person via Messenger
+* Posting a new story
+* Adding a new post to our feed
+* Adding a bio for our profile for the first time
+* Logging out of the account
+
