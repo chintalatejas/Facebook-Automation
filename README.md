@@ -4,9 +4,9 @@ Using Selenium package of Python to use Facebook in an automated process. Here, 
 
 * Logging into the Facebook account
 * Enabling/Disabling Dark Mode
-* Sending messages to a person via Messenger
 * Posting a new story
 * Adding a new post to our feed
 * Adding a bio for our profile for the first time
+* Sending messages to a person via Messenger
 * Logging out of the account
 
