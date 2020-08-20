@@ -10,3 +10,7 @@ Using Selenium package of Python to use Facebook in an automated process. Here, 
 * Sending messages to a person via Messenger
 * Logging out of the account
 
+
+Selenium Documentation:  https://www.selenium.dev/documentation/en/
+
+Installing the Chrome Driver:  https://chromedriver.chromium.org/downloads
